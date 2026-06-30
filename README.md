@@ -4,6 +4,8 @@ Full-stack application designed to create, manage, and take interactive quizzes.
 
 ## 🚀 Getting Started
 
+## Video demo: https://youtu.be/iVnSHyf0oWg
+
 ### Local Development (Recommended)
 The application is fully functional and stable when run in a local development environment.
 
