@@ -1,0 +1,39 @@
+# Dependencies
+node_modules
+
+# Build output
+.next
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dev config
+.eslintrc*
+eslint.config*
+prettier.config*
+.prettierrc*
+
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# IDE / OS
+.vscode
+.idea
+.DS_Store
+Thumbs.db
+
+# Docs
+README.md
+AGENTS.md
+CLAUDE.md
