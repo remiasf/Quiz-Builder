@@ -14,9 +14,10 @@ The application is fully functional and stable when run in a local development e
    npm run dev
 
 2. **Setup Frontend:**
+   ```bash
    cd frontend
-    npm install
-    npm run dev
+   npm install
+   npm run dev
 
 
     Frontend: http://localhost:3000
