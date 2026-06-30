@@ -11,7 +11,7 @@ The application is fully functional and stable when run in a local development e
    ```bash
    cd backend
    npm install
-   npm run dev
+   npm run start:dev
 
 2. **Setup Frontend:**
    ```bash
