@@ -20,9 +20,9 @@ The application is fully functional and stable when run in a local development e
    npm run dev
 
 
-    Frontend: http://localhost:3000
+Frontend: http://localhost:3000
 
-    Backend API: http://localhost:3001
+Backend API: http://localhost:3001
 
    🐳 Docker Status
 Note: The Docker configuration is currently a work-in-progress and may not be fully functional in all environments. The project is confirmed to be stable and ready for review when run locally using the instructions above.
